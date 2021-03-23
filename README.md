@@ -27,3 +27,6 @@ node app.js
 ```
 
 - Open `http://localhost:8080/`
+
+# Licence
+MIT
